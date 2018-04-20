@@ -1,0 +1,30 @@
+[
+  {
+   "type":"weight",
+    "incrCnt": [
+      {"pid":"ch", "cnt":4},
+      {"pid":"bk", "cnt":3}
+    ],
+    "exercises":[
+      {"name":"Bench Press", "pid":"ch", "dt":"B", "incr":1, "rig":"1"},
+      {"name":"Cable Bench Press", "pid":"ch", "dt":"B", "incr":2, "rig":"2"},
+      {"name":"Dumbbell Flyes", "pid":"ch", "dt":"B", "incr":3, "rig":"3"},
+      {"name":"Cable Crossovers", "pid":"ch", "dt":"B", "incr":4, "rig":"4"},
+      {"name":"Deadlift", "pid":"bk", "dt":"B", "incr":1, "rig":"1"},
+      {"name":"Cable Row", "pid":"bk", "dt":"B", "incr":2, "rig":"2"},
+      {"name":"Bent Over Row", "pid":"bk", "dt":"B", "incr":3, "rig":"3"}
+    ]
+  },
+  {
+    "type":"bodyweight",
+    "incrCnt": [
+      {"pid":"ch", "cnt":1},
+      {"pid":"bk", "cnt":1}
+    ],
+    "exercises":[
+      {"name":"Push Up", "pid":"ch", "dt":"B", "incr":1, "rig":"4"},
+      {"name":"Pull Up", "pid":"bk", "dt":"B", "incr":1, "rig":"4"}
+
+    ]
+  }
+]

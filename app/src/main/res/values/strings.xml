@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">"Excercere "</string>
+    <string name="title_activity_workout_exec">WorkoutExecActivity</string>
+</resources>

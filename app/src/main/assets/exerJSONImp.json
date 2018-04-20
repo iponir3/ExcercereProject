@@ -1,0 +1,134 @@
+  {
+    "exercises":[
+      {
+        "ch":[
+          {"name": "ch", "incrCnt":9},
+          {"name":"Bench Press", "pid": "ch", "dt": "W", "incr": 1, "rig": "1"},
+          {"name":"Cable Bench Press", "pid": "ch", "dt": "W", "incr": 2, "rig": "2"},
+          {"name":"Decline Bench Press", "pid": "ch", "dt": "W", "incr": 3, "rig": "2"},
+          {"name":"Dumbbell Flyes", "pid": "ch", "dt": "W", "incr": 3, "rig": "3"},
+          {"name":"Incline Dumbbell Flyes", "pid": "ch", "dt": "W", "incr": 3, "rig": "3"},
+          {"name":"Cable Crossovers", "pid": "ch", "dt": "W", "incr": 4, "rig": "4"},
+          {"name":"Single-Arm Cable Crossovers", "pid": "ch", "dt": "W", "incr": 4, "rig": "4"},
+          {"name":"Push Up", "pid":"ch", "dt":"B", "incr":1, "rig":"5"},
+          {"name":"Incline Push Up", "pid": "ch", "dt": "B", "incr": 3, "rig": "5"}
+        ]
+      },
+      {
+        "bk":[
+          {"name": "bk", "incrCnt":11},
+          {"name":"Deadlift", "pid":"bk", "dt":"W", "rig":"1"},
+          {"name":"T Bar Row", "pid":"bk", "dt":"B", "rig":"1"},
+          {"name":"Cable Row", "pid":"bk", "dt":"W", "rig":"2"},
+          {"name":"Romanian Deadlift", "pid":"bk", "dt":"W", "rig":"2"},
+          {"name":"Pulldown", "pid":"bk", "dt":"W", "rig":"2"},
+          {"name":"Bent Over Row", "pid":"bk", "dt":"W", "rig":"2"},
+          {"name":"Single Arm Row", "pid":"bk", "dt":"W", "rig":"2"},
+          {"name":"Pull Up", "pid":"bk", "dt":"B", "rig":"3"},
+          {"name":"Chin Up", "pid":"bk", "dt":"B", "rig":"3"},
+          {"name":"Burpee", "pid":"bk", "dt":"W", "rig":"3"},
+          {"name":"Hyperextension", "pid":"bk", "dt":"W", "rig":"3"}
+        ]
+      },
+      {
+        "sh":[
+          {"name":"sh", "incrCnt":13},
+          {"name":"Military Press", "pid":"sh", "dt":"W", "rig":"1"},
+          {"name":"Push Press", "pid":"sh", "dt":"W", "rig":"1"},
+          {"name":"Shrugs", "pid":"sh", "dt":"W", "rig":"1"},
+          {"name":"Side Laterals", "pid":"sh", "dt":"W", "rig":"2"},
+          {"name":"One Arm Side Laterals", "pid":"sh", "dt":"W", "rig":"2"},
+          {"name":"One Arm Dumbbell Press", "pid":"sh", "dt":"W", "rig":"2"},
+          {"name":"Reverse Flyes", "pid":"sh", "dt":"W", "rig":"2"},
+          {"name":"Front Dumbbell Raise", "pid":"sh", "dt":"W", "rig":"2"},
+          {"name":"Arnold Press", "pid":"sh", "dt":"W", "rig":"2"},
+          {"name":"One Arm Dumbbell Press", "pid":"sh", "dt":"W", "rig":"2"},
+          {"name":"Cable Side Laterals", "pid":"sh", "dt":"W", "rig":"2"},
+          {"name":"Cable Front Raise", "pid":"sh", "dt":"W", "rig":"2"},
+          {"name":"Standing Wall Push Up", "pid":"sh", "dt":"W", "rig":"3"}
+
+        ]
+      },
+      {
+        "bi":[
+          {"name":"bi", "incrCnt":12},
+          {"name":"Barbell Curls", "pid":"bi", "dt":"W", "rig":"1"},
+          {"name":"Preacher Curls", "pid":"bi", "dt":"W", "rig":"1"},
+          {"name":"Drag Curls", "pid":"bi", "dt":"W", "rig":"2"},
+          {"name":"Dumbbell Curls", "pid":"bi", "dt":"W", "rig":"2"},
+          {"name":"Hammer Curls", "pid":"bi", "dt":"W", "rig":"2"},
+          {"name":"Incline Hammer Curls", "pid":"bi", "dt":"W", "rig":"2"},
+          {"name":"Incline Dumbbell Curls", "pid":"bi", "dt":"W", "rig":"2"},
+          {"name":"Cable Preacher Curls", "pid":"bi", "dt":"W", "rig":"2"},
+          {"name":"Spider Curls", "pid":"bi", "dt":"W", "rig":"2"},
+          {"name":"Zottman Curls", "pid":"bi", "dt":"W", "rig":"2"},
+          {"name":"Concentration Curls", "pid":"bi", "dt":"W", "rig":"2"},
+          {"name":"Reverse Curls", "pid":"bi", "dt":"W", "rig":"2"}
+        ]
+      },
+      {
+        "tr":[
+          {"name":"tr", "incrCnt":9},
+          {"name":"Dips", "pid":"tr", "dt":"W", "rig":"1"},
+          {"name":"Pushdowns", "pid":"tr", "dt":"W", "rig":"1"},
+          {"name":"Skull Crusher", "pid":"tr", "dt":"W", "rig":"1"},
+          {"name":"Triceps Press", "pid":"tr", "dt":"W", "rig":"1"},
+          {"name":"Triceps Extensions", "pid":"tr", "dt":"W", "rig":"2"},
+          {"name":"Lying Triceps Extensions", "pid":"tr", "dt":"W", "rig":"2"},
+          {"name":"Incline Triceps Extensions", "pid":"tr", "dt":"W", "rig":"2"},
+          {"name":"Dumbbell Extensions", "pid":"tr", "dt":"W", "rig":"2"},
+          {"name":"Diamond Push Up", "pid":"tr", "dt":"W", "rig":"3"}
+        ]
+      },
+      {
+        "fore":[
+          {"name":"fore", "incrCnt":5},
+          {"name":"Forearms Curls", "pid":"fore", "dt":"W", "rig":"1"},
+          {"name":"Reverse Curls", "pid":"fore", "dt":"W", "rig":"1"},
+          {"name":"One Arm Forearms Curls", "pid":"fore", "dt":"W", "rig":"2"},
+          {"name":"Wrist Curls", "pid":"fore", "dt":"W", "rig":"2"},
+          {"name":"Reverse Wrist Curls", "pid":"fore", "dt":"W", "rig":"2"}
+        ]
+      },
+      {
+        "lg":[
+          {"name":"lg", "incrCnt":11},
+          {"name":"Squats", "pid":"lg", "dt":"W", "rig":"1"},
+          {"name":"Leg Press", "pid":"lg", "dt":"W", "rig":"1"},
+          {"name":"Front Squats", "pid":"lg", "dt":"W", "rig":"1"},
+          {"name":"Front Squats", "pid":"lg", "dt":"W", "rig":"2"},
+          {"name":"Lunges", "pid":"lg", "dt":"W", "rig":"2"},
+          {"name":"Side Lunges", "pid":"lg", "dt":"W", "rig":"3"},
+          {"name":"Bodyweight Lunges", "pid":"lg", "dt":"W", "rig":"3"},
+          {"name":"Bodyweight Squats", "pid":"lg", "dt":"W", "rig":"3"},
+          {"name":"Sumo Squats", "pid":"lg", "dt":"W", "rig":"3"},
+          {"name":"Jumping Jacks", "pid":"lg", "dt":"W", "rig":"3"},
+          {"name":"One Leg Bodyweight Squats", "pid":"lg", "dt":"W", "rig":"3"}
+        ]
+      },
+      {
+        "cv":[
+          {"name":"cv", "incrCnt":5},
+          {"name":"Machine Calf Raise", "pid":"cv", "dt":"W", "rig":"1"},
+          {"name":"Standing Calf Raise", "pid":"cv", "dt":"W", "rig":"1"},
+          {"name":"Reverse Calf Raise", "pid":"cv", "dt":"W", "rig":"1"},
+          {"name":"Machine Donkey Calf Raise", "pid":"cv", "dt":"W", "rig":"1"},
+          {"name":"Donkey Calf Raise", "pid":"cv", "dt":"W", "rig":"1"}
+        ]
+      },
+      {
+      "ab":[
+          {"name":"ab", "incrCnt":8},
+          {"name":"Weighted Crunches", "pid":"ab", "dt":"W", "rig":"1"},
+          {"name":"Crunches", "pid":"ab", "dt":"W", "rig":"3"},
+          {"name":"Leg Raise", "pid":"ab", "dt":"W", "rig":"3"},
+          {"name":"Side Crunches", "pid":"ab", "dt":"W", "rig":"3"},
+          {"name":"Bicycles", "pid":"ab", "dt":"W", "rig":"3"},
+          {"name":"Crunches", "pid":"ab", "dt":"W", "rig":"3"},
+          {"name":"Hanging Leg Raise", "pid":"ab", "dt":"W", "rig":"3"},
+          {"name":"Plank", "pid":"ab", "dt":"W", "rig":"3"}
+        ]
+      }
+    ]
+  }
+

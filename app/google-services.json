@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "842098884851",
+    "firebase_url": "https://excercere-cs4365.firebaseio.com",
+    "project_id": "excercere-cs4365",
+    "storage_bucket": "excercere-cs4365.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842098884851:android:3f4e5c7f6f29f264",
+        "android_client_info": {
+          "package_name": "self.excercere"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842098884851-t0revvmfkmvtaagl2th2468d6vvmhp8c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "self.excercere",
+            "certificate_hash": "6f7b6b2954b6bc0a5f47fa19c0ca6660660e7925"
+          }
+        },
+        {
+          "client_id": "842098884851-ib3hnbbnkmppgktbq9e8np5qrqg4r1r2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHGt2fLY--6YCfL3OJKZsvU6cfW45oOZg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842098884851-ib3hnbbnkmppgktbq9e8np5qrqg4r1r2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
